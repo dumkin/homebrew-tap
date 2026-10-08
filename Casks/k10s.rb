@@ -1,6 +1,6 @@
 cask "k10s" do
-  version "0.1.1"
-  sha256 "3f6c984a050859813fb600def02ad7ef04b1265224cb53ce1a4200f606d78285"
+  version "0.2.0"
+  sha256 "a0b4200cf75359363be7921c988326107cba342549b711528882c560ae14ceeb"
 
   url "https://github.com/dumkin/k10s/releases/download/v#{version}/k10s-#{version}-macos-arm64.dmg"
   name "k10s"
